@@ -1,4 +1,4 @@
-*Full Stack Task Management Application*
+***Full Stack Task Management Application***
 
 This project is a full-stack web application built using Spring Boot for the backend, React for the frontend, and MySQL as the database. The system supports two types of users: Administrator and User, each with different roles and permissions.
 
