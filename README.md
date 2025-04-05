@@ -63,4 +63,4 @@ This project is a full-stack web application built using Spring Boot for the bac
 - **Database**: MySQL
   - Stores all user, task, group, and chat data.
 - **Deployment**: Docker (optional)
-  - Can be deployed using Docker containers for both backend and frontend components.
+
